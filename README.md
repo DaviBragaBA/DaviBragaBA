@@ -1,23 +1,41 @@
-# Davi Braga Moreira
+<h1 align="center">Hi, I'm Davi Braga 👋</h1>
 
-Business Analyst no [Nubank](https://nubank.com.br) (Core Limit Policies).  
-Sistemas de Informação (UNIFEI). Pós em Engenharia de Software com IA e em Inteligência de Dados em Negócios (ESPM).
+<p align="center">
+  <b>Business Analyst at <a href="https://nubank.com.br">Nubank</a></b> · Core Limit Policies<br>
+  Building <b>applied AI</b> that survives production: LLMs, RAG, agents and MCP.
+</p>
 
-Trabalho no cruzamento de **crédito, dados e IA aplicada**: políticas de limite, experimentos e sistemas que aguentam produção.
+<p align="center">
+  <a href="https://davi-braga-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://davi-diorama.vercel.app"><img src="https://img.shields.io/badge/3D%20Diorama-black?style=for-the-badge&logo=threedotjs&logoColor=white" alt="3D Diorama"></a>
+</p>
 
-## Em destaque
+---
 
-| Projeto | O que é |
+### About me
+
+- 💳 I work where **credit, data and AI** meet: limit policies, experiments and decision systems across **Brazil, Mexico and Colombia**.
+- 🤖 I build AI systems meant for **production, not demos**: agents, RAG pipelines, model routing and evals graded by code.
+- 🎓 B.Sc. in Information Systems (UNIFEI). Graduate studies in **Software Engineering with Applied AI** and **Data Intelligence for Business** (ESPM).
+
+### Featured projects
+
+| Project | What it is |
 | --- | --- |
-| [davi-diorama](https://github.com/DaviBragaBA/davi-diorama) | Portfólio 3D interativo ([no ar](https://davi-diorama.vercel.app)) |
-| [agent-forge](https://github.com/DaviBragaBA/agent-forge) | Forge spec-driven: agents a partir de 9 contratos Markdown |
-| [Prompt-Json](https://github.com/DaviBragaBA/Prompt-Json) | Prompt Studio — gera prompts estruturados em JSON |
-| [meu-portfolio](https://github.com/DaviBragaBA/meu-portfolio) | Site pessoal ([no ar](https://davi-braga-portfolio.vercel.app)) |
+| 🧊 [davi-diorama](https://github.com/DaviBragaBA/davi-diorama) | Interactive 3D portfolio built as a Three.js diorama · [live](https://davi-diorama.vercel.app) |
+| ⚒️ [agent-forge](https://github.com/DaviBragaBA/agent-forge) | Spec-driven forge: generates autonomous agents from 9 Markdown contracts and a generic Python runtime |
+| 🧰 [fabrica](https://github.com/DaviBragaBA/fabrica) | Portable agent harness: skills for grilling, specs, AI architecture, K8s, approval gates and fine-tune gates |
+| 🧩 [Prompt-Json](https://github.com/DaviBragaBA/Prompt-Json) | Prompt Studio: builds structured JSON prompts for Cursor and other AI tools · [live](https://davibragaba.github.io/Prompt-Json/) |
+| 🌐 [meu-portfolio](https://github.com/DaviBragaBA/meu-portfolio) | Personal site and portfolio · [live](https://davi-braga-portfolio.vercel.app) |
 
-## Stack
+### Tech stack
 
-TypeScript · Python · Next.js · Three.js · PostgreSQL · Prisma · RAG / agents / MCP
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,python,nextjs,react,threejs,nodejs,postgres,prisma,supabase,docker,vercel,git" alt="Tech stack">
+</p>
 
-## Foco
+**AI:** LLMs · RAG · agents · MCP · Qdrant · n8n · evals · model routing
 
-Sistemas de IA **em produção**: LLMs, RAG, agents, pipelines de dados, deploy de modelos e MLOps — com o recorte de negócio de crédito e políticas de limite (BR / MX / COL).
+### What I care about
+
+> Shipping AI that is **measured, cheap and boring to operate**. If a smaller model gets the same score, it gets the job.
