@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="165" viewBox="0 0 300 165" role="img" aria-labelledby="title desc">
+  <title id="title">Most used languages</title>
+  <desc id="desc">Share of code by language across 23 repositories, public and private: Python 37.5%, JavaScript 34.6%, TypeScript 13.9%, HTML 9.7%, Shell 2.6%, CSS 1.0%, PLpgSQL 0.3%, PowerShell 0.3%.</desc>
+  <style>
+    .header { font: 600 17px 'Segoe UI', Ubuntu, Sans-Serif; fill: #58a6ff }
+    .lang { font: 400 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: #c9d1d9 }
+    .muted { font: 400 10px 'Segoe UI', Ubuntu, Sans-Serif; fill: #8b949e }
+  </style>
+  <rect width="300" height="165" rx="4.5" fill="#0d1117"/>
+  <text x="25" y="33" class="header">Most Used Languages</text>
+  <mask id="bar"><rect x="25" y="46" width="250" height="8" rx="4" fill="#fff"/></mask>
+  <g mask="url(#bar)">
+    <rect x="25.00" y="46" width="93.85" height="8" fill="#3572A5"/>
+    <rect x="118.85" y="46" width="86.39" height="8" fill="#f1e05a"/>
+    <rect x="205.24" y="46" width="34.75" height="8" fill="#3178c6"/>
+    <rect x="239.99" y="46" width="24.16" height="8" fill="#e34c26"/>
+    <rect x="264.15" y="46" width="6.62" height="8" fill="#89e051"/>
+    <rect x="270.77" y="46" width="2.44" height="8" fill="#663399"/>
+    <rect x="273.21" y="46" width="0.72" height="8" fill="#336790"/>
+    <rect x="273.93" y="46" width="0.70" height="8" fill="#012456"/>
+  </g>
+  <g>
+    <circle cx="30" cy="72" r="5" fill="#3572A5"/>
+    <text x="41" y="76" class="lang">Python 37.54%</text>
+    <circle cx="160" cy="72" r="5" fill="#f1e05a"/>
+    <text x="171" y="76" class="lang">JavaScript 34.56%</text>
+    <circle cx="30" cy="92" r="5" fill="#3178c6"/>
+    <text x="41" y="96" class="lang">TypeScript 13.90%</text>
+    <circle cx="160" cy="92" r="5" fill="#e34c26"/>
+    <text x="171" y="96" class="lang">HTML 9.66%</text>
+    <circle cx="30" cy="112" r="5" fill="#89e051"/>
+    <text x="41" y="116" class="lang">Shell 2.65%</text>
+    <circle cx="160" cy="112" r="5" fill="#663399"/>
+    <text x="171" y="116" class="lang">CSS 0.98%</text>
+    <circle cx="30" cy="132" r="5" fill="#336790"/>
+    <text x="41" y="136" class="lang">PLpgSQL 0.29%</text>
+    <circle cx="160" cy="132" r="5" fill="#012456"/>
+    <text x="171" y="136" class="lang">PowerShell 0.28%</text>
+  </g>
+  <text x="275" y="155" class="muted" text-anchor="end">23 repos · public + private</text>
+</svg>

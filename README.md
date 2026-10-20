@@ -14,7 +14,7 @@
 <p align="center">
   <a href="https://davi-braga-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
   <a href="https://davi-diorama.vercel.app"><img src="https://img.shields.io/badge/3D%20Diorama-black?style=for-the-badge&logo=threedotjs&logoColor=white" alt="3D Diorama"></a>
-  <img src="https://komarev.com/ghpvc/?username=DaviBragaBA&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=DaviBragaBA&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS&v=2" alt="Profile views">
 </p>
 
 ---
@@ -47,17 +47,17 @@
 
 <p align="center">
   <img height="165" src="https://raw.githubusercontent.com/DaviBragaBA/DaviBragaBA/output/contrib-stats.svg" alt="Contribution stats, public and private, updated daily">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviBragaBA&layout=compact&langs_count=8&hide_border=true&theme=github_dark" alt="Top languages">
+  <img height="165" src="https://raw.githubusercontent.com/DaviBragaBA/DaviBragaBA/main/assets/top-langs.svg" alt="Most used languages across all repositories, public and private">
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=DaviBragaBA&hide_border=true&theme=github-dark-blue" alt="Contribution streak">
+  <img src="https://raw.githubusercontent.com/DaviBragaBA/DaviBragaBA/output/streak.svg" alt="Contribution streak, public and private, updated daily">
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DaviBragaBA/DaviBragaBA/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DaviBragaBA/DaviBragaBA/output/snake.svg">
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/DaviBragaBA/DaviBragaBA/output/snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DaviBragaBA/DaviBragaBA/output/snake-dark.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DaviBragaBA/DaviBragaBA/output/snake.svg?v=2">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/DaviBragaBA/DaviBragaBA/output/snake.svg?v=2">
 </picture>
 
 ### What I care about
