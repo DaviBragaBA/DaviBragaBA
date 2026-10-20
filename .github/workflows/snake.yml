@@ -1,4 +1,4 @@
-name: Contribution snake
+name: Contribution snake and stats
 
 on:
   schedule:
@@ -15,12 +15,18 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
+      - uses: actions/checkout@v4
       - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
+      - name: Contribution stats card (public + private contributions)
+        run: node scripts/contrib-card.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: ${{ github.repository_owner }}
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output

@@ -46,7 +46,7 @@
 ### GitHub activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DaviBragaBA&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=github_dark" alt="GitHub stats">
+  <img height="165" src="https://raw.githubusercontent.com/DaviBragaBA/DaviBragaBA/output/contrib-stats.svg" alt="Contribution stats, public and private, updated daily">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviBragaBA&layout=compact&langs_count=8&hide_border=true&theme=github_dark" alt="Top languages">
 </p>
 
