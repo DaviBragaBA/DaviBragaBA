@@ -30,7 +30,6 @@
 | Project | What it is |
 | --- | --- |
 | 🧊 [davi-diorama](https://github.com/DaviBragaBA/davi-diorama) | Interactive 3D portfolio built as a Three.js diorama · [live](https://davi-diorama.vercel.app) |
-| ⚒️ [agent-forge](https://github.com/DaviBragaBA/agent-forge) | Spec-driven forge: generates autonomous agents from 9 Markdown contracts and a generic Python runtime |
 | 🧰 [fabrica](https://github.com/DaviBragaBA/fabrica) | Portable agent harness: skills for grilling, specs, AI architecture, K8s, approval gates and fine-tune gates |
 | 🧩 [Prompt-Json](https://github.com/DaviBragaBA/Prompt-Json) | Prompt Studio: builds structured JSON prompts for Cursor and other AI tools · [live](https://davibragaba.github.io/Prompt-Json/) |
 | 🌐 [meu-portfolio](https://github.com/DaviBragaBA/meu-portfolio) | Personal site and portfolio · [live](https://davi-braga-portfolio.vercel.app) |
