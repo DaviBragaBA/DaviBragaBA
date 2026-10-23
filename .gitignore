@@ -1,1 +1,13 @@
 dist/
+
+# segredos e dados locais (regra 1 do SECURITY.md)
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.sqlite
+*.db
+*.dump
+.DS_Store
