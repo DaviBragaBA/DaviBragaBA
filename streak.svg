@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-labelledby="title2 desc2">
+  <title id="title2">Contribution streak</title>
+  <desc id="desc2">3,088 total contributions since Feb 21, 2026, current streak 40 days, longest streak 40 days.</desc>
+  <style>
+    .big { font: 700 28px 'Segoe UI', Ubuntu, Sans-Serif; fill: #58a6ff }
+    .ring-num { font: 700 28px 'Segoe UI', Ubuntu, Sans-Serif; fill: #c9d1d9 }
+    .side { font: 400 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #c9d1d9 }
+    .side-bold { font: 700 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #c9d1d9 }
+    .date { font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #8b949e }
+    .ring { stroke-dasharray: 251.33; stroke-dashoffset: 251.33; animation: ring 1.2s ease-out forwards }
+    @keyframes ring { to { stroke-dashoffset: 0 } }
+  </style>
+  <rect width="495" height="195" rx="4.5" fill="#0d1117"/>
+  <line x1="165" y1="30" x2="165" y2="165" stroke="#30363d" stroke-width="1"/>
+  <line x1="330" y1="30" x2="330" y2="165" stroke="#30363d" stroke-width="1"/>
+
+  <text x="82.5" y="84" class="big" text-anchor="middle">3,088</text>
+  <text x="82.5" y="118" class="side" text-anchor="middle">Total Contributions</text>
+  <text x="82.5" y="142" class="date" text-anchor="middle">Feb 21, 2026 - Present</text>
+
+  <circle cx="247.5" cy="88" r="40" fill="none" stroke="#58a6ff" stroke-opacity="0.2" stroke-width="5"/>
+  <circle class="ring" cx="247.5" cy="88" r="40" fill="none" stroke="#58a6ff" stroke-width="5" stroke-linecap="round" transform="rotate(-90 247.5 88)"/>
+  <g transform="translate(238.5 26) scale(0.75)">
+    <path d="M12 2c1.2 4.6 6 6 6 11.5A6 6 0 0 1 6 13.5c0-1.9.7-3.4 1.7-4.6.3 1.5 1.2 2.6 2.4 3.1C9.6 9 10.6 5.4 12 2z" fill="#58a6ff"/>
+  </g>
+  <text x="247.5" y="98" class="ring-num" text-anchor="middle">40</text>
+  <text x="247.5" y="152" class="side-bold" text-anchor="middle">Current Streak</text>
+  <text x="247.5" y="172" class="date" text-anchor="middle">Sep 15 - Oct 24</text>
+
+  <text x="412.5" y="84" class="big" text-anchor="middle">40</text>
+  <text x="412.5" y="118" class="side" text-anchor="middle">Longest Streak</text>
+  <text x="412.5" y="142" class="date" text-anchor="middle">Sep 15 - Oct 24</text>
+</svg>
